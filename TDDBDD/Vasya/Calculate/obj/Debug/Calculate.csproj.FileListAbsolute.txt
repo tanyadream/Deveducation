@@ -1,0 +1,131 @@
+c:\users\dmitry\documents\visual studio 2015\Projects\Calculate\Calculate\bin\Debug\Calculate.exe.config
+c:\users\dmitry\documents\visual studio 2015\Projects\Calculate\Calculate\bin\Debug\Calculate.exe
+c:\users\dmitry\documents\visual studio 2015\Projects\Calculate\Calculate\bin\Debug\Calculate.pdb
+c:\users\dmitry\documents\visual studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+c:\users\dmitry\documents\visual studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.fCalc.resources
+c:\users\dmitry\documents\visual studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+c:\users\dmitry\documents\visual studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.Cache
+c:\users\dmitry\documents\visual studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.exe
+c:\users\dmitry\documents\visual studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.pdb
+C:\Users\Dasha\Desktop\Calculate\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+C:\Users\Dasha\Desktop\Calculate\Calculate\obj\Debug\Calculate.fCalc.resources
+C:\Users\Dasha\Desktop\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\Dasha\Desktop\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\Dasha\Desktop\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\Desktop\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\Dasha\Desktop\Calculate\Calculate\obj\Debug\Calculate.pdb
+C:\Users\Dasha\Desktop\Calculate\Calculate\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Dasha\Desktop\Calculate\Calculate\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Dasha\Desktop\Calculate\Calculate\bin\Debug\nunit.engine.dll
+C:\Users\Dasha\Desktop\Calculate\Calculate\bin\Debug\nunit.engine.api.dll
+C:\Users\Dasha\Desktop\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\Dasha\Desktop\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\Dasha\Desktop\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\Dasha\Desktop\Calculate\Calculate\bin\Debug\nunit.framework.dll
+C:\Users\Dasha\Desktop\Calculate\Calculate\bin\Debug\nunit.framework.pdb
+C:\Users\Dasha\Desktop\Calculate\Calculate\bin\Debug\nunit.framework.xml
+C:\Users\Dasha\Desktop\Calculate\Calculate\obj\Debug\Calculate.csproj.CopyComplete
+C:\Users\kutsv\source\repos\Calculate\Calculate\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\kutsv\source\repos\Calculate\Calculate\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\kutsv\source\repos\Calculate\Calculate\bin\Debug\nunit.engine.dll
+C:\Users\kutsv\source\repos\Calculate\Calculate\bin\Debug\nunit.engine.api.dll
+C:\Users\kutsv\source\repos\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\kutsv\source\repos\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\kutsv\source\repos\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\kutsv\source\repos\Calculate\Calculate\bin\Debug\nunit.framework.dll
+C:\Users\kutsv\source\repos\Calculate\Calculate\bin\Debug\nunit.framework.pdb
+C:\Users\kutsv\source\repos\Calculate\Calculate\bin\Debug\nunit.framework.xml
+C:\Users\kutsv\source\repos\Calculate\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+C:\Users\kutsv\source\repos\Calculate\Calculate\obj\Debug\Calculate.fCalc.resources
+C:\Users\kutsv\source\repos\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\kutsv\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\kutsv\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\kutsv\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.CopyComplete
+C:\Users\kutsv\source\repos\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\kutsv\source\repos\Calculate\Calculate\obj\Debug\Calculate.pdb
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\bin\Debug\nunit.engine.dll
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\bin\Debug\nunit.engine.api.dll
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\bin\Debug\Calculate.exe
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\bin\Debug\Calculate.pdb
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\bin\Debug\nunit.framework.pdb
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\obj\Debug\Calculate.fCalc.resources
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\obj\Debug\Calculate.csproj.CopyComplete
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\obj\Debug\Calculate.exe
+C:\Users\User\Desktop\CalcTestAndProj-master\Calculate C# Sqrt, 30 UbitTest\Calculate\obj\Debug\Calculate.pdb
+D:\MY\HW\Vasya\Calculate\bin\Debug\NUnit3.TestAdapter.dll
+D:\MY\HW\Vasya\Calculate\bin\Debug\NUnit3.TestAdapter.pdb
+D:\MY\HW\Vasya\Calculate\bin\Debug\nunit.engine.dll
+D:\MY\HW\Vasya\Calculate\bin\Debug\nunit.engine.api.dll
+D:\MY\HW\Vasya\Calculate\bin\Debug\Calculate.exe.config
+D:\MY\HW\Vasya\Calculate\bin\Debug\Calculate.exe
+D:\MY\HW\Vasya\Calculate\bin\Debug\Calculate.pdb
+D:\MY\HW\Vasya\Calculate\bin\Debug\nunit.framework.dll
+D:\MY\HW\Vasya\Calculate\bin\Debug\nunit.framework.pdb
+D:\MY\HW\Vasya\Calculate\bin\Debug\nunit.framework.xml
+D:\MY\HW\Vasya\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+D:\MY\HW\Vasya\Calculate\obj\Debug\Calculate.fCalc.resources
+D:\MY\HW\Vasya\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+D:\MY\HW\Vasya\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+D:\MY\HW\Vasya\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+D:\MY\HW\Vasya\Calculate\obj\Debug\Calculate.csproj.CopyComplete
+D:\MY\HW\Vasya\Calculate\obj\Debug\Calculate.exe
+D:\MY\HW\Vasya\Calculate\obj\Debug\Calculate.pdb
+C:\Users\User\Desktop\Vasya\Calculate\obj\Debug\Calculate.fCalc.resources
+C:\Users\User\Desktop\Vasya\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\User\Desktop\Vasya\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Vasya\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vasya\Calculate\obj\Debug\Calculate.exe
+C:\Users\User\Desktop\Vasya\Calculate\obj\Debug\Calculate.pdb
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\nunit.engine.dll
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\nunit.engine.api.dll
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\Calculate.exe
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\Calculate.pdb
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\BoDi.dll
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\Gherkin.dll
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\Utf8Json.dll
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\BoDi.pdb
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\nunit.framework.pdb
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\User\Desktop\Vasya\Calculate\bin\Debug\Utf8Json.xml
+C:\Users\User\Desktop\Vasya\Calculate\obj\Debug\Calculate.csproj.CopyComplete
+C:\QaLectures\IvanovHW\Vasya\Calculate\obj\Debug\Calculate.fCalc.resources
+C:\QaLectures\IvanovHW\Vasya\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\QaLectures\IvanovHW\Vasya\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\QaLectures\IvanovHW\Vasya\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\QaLectures\IvanovHW\Vasya\Calculate\obj\Debug\Calculate.exe
+C:\QaLectures\IvanovHW\Vasya\Calculate\obj\Debug\Calculate.pdb
+C:\QaLectures\IvanovHW\Vasya\Calculate\bin\Debug\NUnit3.TestAdapter.dll
+C:\QaLectures\IvanovHW\Vasya\Calculate\bin\Debug\nunit.engine.dll
+C:\QaLectures\IvanovHW\Vasya\Calculate\bin\Debug\nunit.engine.api.dll
+C:\QaLectures\IvanovHW\Vasya\Calculate\bin\Debug\Calculate.exe.config
+C:\QaLectures\IvanovHW\Vasya\Calculate\bin\Debug\Calculate.exe
+C:\QaLectures\IvanovHW\Vasya\Calculate\bin\Debug\Calculate.pdb
+C:\QaLectures\IvanovHW\Vasya\Calculate\bin\Debug\nunit.framework.dll
+C:\QaLectures\IvanovHW\Vasya\Calculate\bin\Debug\System.ValueTuple.dll
+C:\QaLectures\IvanovHW\Vasya\Calculate\bin\Debug\TechTalk.SpecFlow.dll
+C:\QaLectures\IvanovHW\Vasya\Calculate\obj\Debug\Calculate.csproj.CopyComplete
+C:\QaLectures\IvanovHW\Vasya\Calculate\bin\Debug\Mono.Cecil.dll
+C:\QaLectures\IvanovHW\Vasya\Calculate\bin\Debug\Mono.Cecil.Pdb.dll
+C:\QaLectures\IvanovHW\Vasya\Calculate\bin\Debug\Mono.Cecil.Mdb.dll
+C:\QaLectures\IvanovHW\Vasya\Calculate\bin\Debug\Mono.Cecil.Rocks.dll
+C:\QaLectures\IvanovHW\Vasya\Calculate\bin\Debug\Newtonsoft.Json.dll
+C:\QaLectures\IvanovHW\Vasya\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
