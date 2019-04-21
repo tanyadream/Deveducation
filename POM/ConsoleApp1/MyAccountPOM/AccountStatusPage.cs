@@ -4,8 +4,8 @@ namespace MyAccount
 {
     public class AccountStatusPage : SeleniumWrapper
     {
-		//internal static By EmailField = By.Id("email");
-		//internal static By PasswordField = By.Id("password");
+		internal static By StartDateField = By.Id("start-date");
+		internal static By EndDateField = By.Id("end-date");
 		//internal static By ConfirmField = By.Id("confirm");
 		internal static By BtnSubmit = By.CssSelector("button.btn.btn-success");
 		internal static By AccountSelect = By.CssSelector("select.form-control.account-select");

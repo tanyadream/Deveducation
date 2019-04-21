@@ -14,19 +14,37 @@ namespace MyAccount
             OpenRegistrationPage();
         }
 
-        //[Given(@"Registration is completed with email '(.*)'")]
-        //public void GivenRegistrationIsCompletedWithEmail(string email)
-        //{
-            //if (email == "unique email")
-            //{
-                //email = $"{DateTime.Now:ddMMMyyyyHHmmssf}@test.test";
-            //}
+		//[Given(@"Registration is completed with email '(.*)'")]
+		//public void GivenRegistrationIsCompletedWithEmail(string email)
+		//{
+		//if (email == "unique email")
+		//{
+		//email = $"{DateTime.Now:ddMMMyyyyHHmmssf}@test.test";
+		//}
 
-            //ScenarioContext.Current["existedEmail"] = email;
+		//ScenarioContext.Current["existedEmail"] = email;
 
-            //OpenRegistrationPage().FillEmailField(email).FillPasswordField("123qwe")
-                //.FillConfirmField("123qwe").ClickSubmitButton();
-        //}
+		//OpenRegistrationPage().FillEmailField(email).FillPasswordField("123qwe")
+		//.FillConfirmField("123qwe").ClickSubmitButton();
+		//}
+
+
+		[When(@"Choose to data")]
+		public void WhenChooseToDataField(string EndDateField)
+		{
+			FillToDataField(EndDateField);
+		}
+
+		[When(@"Choose from data")]
+		public void WhenChooseFronData(string StartDateField)
+		{
+			if (StartDateField == "01/04/2019")
+			{
+				StartDateField = $"01/04/2019";
+			}
+
+			FillStartDate(StartDateField);
+		}
 
 		[When(@"I choose MetaTraider4")]
         public void WhenIChooseMetaTraider4()

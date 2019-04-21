@@ -14,40 +14,40 @@ namespace MyAccount
             OpenLoginPage();
         }
 
-        //[Given(@"Registration is completed with email '(.*)'")]
-        //public void GivenRegistrationIsCompletedWithEmail(string email)
-        //{
-        //    if (email == "unique email")
-        //    {
-        //        email = $"{DateTime.Now:ddMMMyyyyHHmmssf}@test.test";
-        //    }
+		//[Given(@"Registration is completed with email '(.*)'")]
+		//public void GivenRegistrationIsCompletedWithEmail(string email)
+		//{
+		//    if (email == "unique email")
+		//    {
+		//        email = $"{DateTime.Now:ddMMMyyyyHHmmssf}@test.test";
+		//    }
 
-        //    ScenarioContext.Current["existedEmail"] = email;
+		//    ScenarioContext.Current["existedEmail"] = email;
 
-        //    OpenRegistrationPage().FillEmailField(email).FillPasswordField("123qwe")
-        //        .FillConfirmField("123qwe").ClickSubmitButton();
-        //}
+		//    OpenRegistrationPage().FillEmailField(email).FillPasswordField("123qwe")
+		//        .FillConfirmField("123qwe").ClickSubmitButton();
+		//}
 
 		//[When(@"I try to login with exist email")]
-        //public void WhenITryToLoginWithExistEmail()
-        //{
-            //var existedEmail = (string)ScenarioContext.Current["existedEmail"];
+		//public void WhenITryToLoginWithExistEmail()
+		//{
+		//var existedEmail = (string)ScenarioContext.Current["existedEmail"];
 
-            //RefreshPage();
-            //OpenLoginPage().FillEmailField(existedEmail).FillPasswordField("123qwe")
-                //.FillConfirmField("123qwe").ClickSubmitButton();
-        //}
+		//RefreshPage();
+		//OpenLoginPage().FillEmailField(existedEmail).FillPasswordField("123qwe")
+		//.FillConfirmField("123qwe").ClickSubmitButton();
+		//}
 
-        [When(@"I input 'se11@se.se' in email field")]
-        public void WhenIInputInEmailField(string email)
-        {
-            if (email == "se11@se.se")
-            {
-                email = $"se11@se.se";
-            }
+		[When(@"I input 'se11@se.se' in email field")]
+		public void WhenIInputInEmailField(string email)
+		{
+			if (email == "se11@se.se")
+			{
+				email = $"se11@se.se";
+			}
 
-            FillEmailField(email);
-        }
+			FillEmailField(email);
+		}
         
         [When(@"I input '123qwe' in password field")]
         public void WhenIInputInPasswordField(string password)
