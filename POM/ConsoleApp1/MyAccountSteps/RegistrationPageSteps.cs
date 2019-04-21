@@ -79,7 +79,7 @@ namespace MyAccount
 		//saveToFile(new File("/path/to/file), cookies);
 		//driver.quit();
 
-		[Then(@"Visibility of SignOut link is '(.*)'")]
+		[Then(@"Visibility of SignOut link is 'true'")]
         public void ThenSignOutLinkIsDisplayed(bool visibility)
         {
             var res = new MyAccountPage().IsSignOutLinkVisible();
